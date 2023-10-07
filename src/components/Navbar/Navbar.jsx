@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className='container w-100'>
             <div className='navbar-content flex fw-7'>
                 <div className='brand-and-toggler flex flex-between w-100'>
-                    <Link to = "/" className='navbar-brand fs-26'>SolnHub.</Link>
+                    <Link to = "/" className='navbar-brand fs-26'>GitHub Copilot Training</Link>
                     <div type = "button" className={`hamburger-menu ${navToggle ? 'hamburger-menu-change' : ""}`} onClick={navHandler}>
                         <div className='bar-top'></div>
                         <div className='bar-middle'></div>
@@ -34,10 +34,10 @@ const Navbar = () => {
                                 <Link to = "/">Features</Link>
                             </li>
                             <li className='text-white'>
-                                <Link to = "/">Pricing</Link>
+                                <Link to = "/">DeepDive</Link>
                             </li>
                             <li className='text-white'>
-                                <Link to = "/">Contacts</Link>
+                                <Link to = "/">Tips&Tricks</Link>
                             </li>
                         </ul>
                         <ul className='navbar-social flex'>
@@ -52,7 +52,7 @@ const Navbar = () => {
                             </li>
                         </ul>
                         <div className='navbar-btns'>
-                            <button type = "button" className='btn'><IoMdRocket /> <span>get started</span></button>
+                            <button type = "button" className='btn'><IoMdRocket /> <span>Copilot</span></button>
                         </div>
                     </div>
                 </div>

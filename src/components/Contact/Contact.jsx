@@ -12,7 +12,7 @@ const Contact = () => {
             <div className='contact-content grid text-center'>
                 <div className='contact-left'>
                     <div className='section-t'>
-                        <h3>Let's Talk?</h3> 
+                        <h3>Let's Talk about GitHub Copilot</h3> 
                         <p className='text'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit, assumenda quia repellendus architecto culpa nisi?</p>
                     </div>
 

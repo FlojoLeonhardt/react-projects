@@ -10,37 +10,37 @@ const services = [
     {
         id: 1,
         icon: <FaPaperPlane style = {{ fill: gradient }} />,
-        title: "Digital Marketing",
+        title: "GitHub Copilot keyboard shortcuts ",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 2,
         icon: <BiDollarCircle style = {{ fill: gradient }} />,
-        title: "Trade Shows",
+        title: "GitHub Copilot for Middle Level Engineers",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 3,
         icon: <FaRocket style = {{ fill: gradient }} />,
-        title: "Branding",
+        title: "GitHub Copilot - what not to do",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 4, 
         icon: <FaEdit style = {{ fill: gradient }} />,
-        title: "Content Creation",
+        title: "GitHub Copilot - productivity booster",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 5,
         icon: <ImMagicWand style = {{ fill: gradient }} />,
-        title: "Grpahic Design",
+        title: "GitHub Copilot - for senior developers",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 6,
         icon: <FaShoppingCart style = {{ fill: gradient }} />,
-        title: "Media Buying",
+        title: "GitHub Copilot - for junior developers",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     }
 ];
@@ -56,13 +56,13 @@ const qualities = [
     {
         id: 8,
         icon: <FaFileAlt style = {{ fill: gradient }} />,
-        title: "Ideas & Plans",
+        title: "Design - PlantUML",
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod."
     },
     {
         id: 9,
         icon: <AiOutlineReload style = {{ fill: gradient }}  />,
-        title: "Prompt Strategies",
+        title: "GitHub Copilot - python specific",
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod."
     }
 ];
@@ -70,32 +70,32 @@ const qualities = [
 const features = [
     {
         id: 10,
-        title: "Digital Marketing",
+        title: "GitHub Copilot - Go specific",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
     },
     {
         id: 11,
-        title: "Trade Shows",
+        title: "GitHub Copilot - Java specific",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
     },
     {
         id: 12,
-        title: "Branding",
+        title: "GitHub Copilot - C# specific",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
     },
     {
         id: 13,
-        title: "Content Creation",
+        title: "GitHub Copilot - React JS/TS specific",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
     }, 
     {
         id: 14,
-        title: "Graphic Design",
+        title: "GitHub Copilot - Unit testing specific",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
     },
     {
         id: 15,
-        title: "Media Buying",
+        title: "GitHub Copilot - Test driven development specific",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
     }
 ];
@@ -170,19 +170,19 @@ const contact = [
     {
         id: 25,
         icon: <FaPhoneAlt style = {{ fill: gradient }} />,
-        info: "+425 235 712",
+        info: "+425 444 666",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 26,
         icon: <FaEnvelopeOpen style = {{ fill: gradient }} />,
-        info: "solnhub@info.com",
+        info: "AIRTEL@anz.com",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     },
     {
         id: 27,
         icon: <FaMapMarkerAlt style = {{ fill: gradient }} />,
-        info: "United Kingdom, New Street",
+        info: "833 Collins Street, Docklands",
         text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
     }
 ]

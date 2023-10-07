@@ -10,7 +10,7 @@ const Qualities = () => {
             <div className='qualities-content grid'>
                 <div className='content-left'>
                     <div className='section-t text-center'>
-                        <h3>We are Professionals</h3>
+                        <h3>GitHub Copilot Trainers</h3>
                         <p className='text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde voluptates deserunt, molestiae soluta cumque eum.</p>
                     </div>
 
@@ -23,7 +23,7 @@ const Qualities = () => {
                                             {quality.icon}
                                         </div>
                                         <div className='item-text'>
-                                            <h3 className='item-title fs-25'>Ideas & Plans</h3>
+                                            <h3 className='item-title fs-25'>GitHub Copilot Tibs & Tricks</h3>
                                             <p className='text'>{quality.text}</p>
                                         </div>
                                     </div>

@@ -12,7 +12,7 @@ const About = () => {
                 </div>
                 <div className='content-right'>
                     <div className='section-t'>
-                        <h3>About Us</h3>
+                        <h3>GitHub Copilot for all</h3>
                     </div>
                     <p className = "text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit qui eum at unde ipsa quibusdam sunt incidunt voluptates dicta ab provident doloremque perferendis ad voluptatem mollitia amet magnam, hic aliquam cupiditate blanditiis quas eos neque saepe? Quas expedita cupiditate et sint nesciunt, ipsum eos reiciendis cumque. At provident ab veritatis.</p>
                     <p className='text'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur nobis laudantium nesciunt maxime tenetur illo.</p>

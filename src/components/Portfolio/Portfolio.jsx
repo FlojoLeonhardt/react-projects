@@ -8,7 +8,7 @@ const Portfolio = () => {
         <div className='container'>
             <div className='portfolio-content'>
                 <div className='section-t text-center'>
-                    <h3>Our Portfolio</h3>
+                    <h3>Your GitHub Copilot</h3>
                     <p className='text'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet corrupti laboriosam fugit expedita inventore temporibus!</p>
                 </div>
 
