@@ -5,6 +5,8 @@
     height: 56px;
     border: 1px solid #555;
     border-radius: 4px;
+    /* create white background-colour insread of black */
+    /* background-color: var(--clr-white); */
     background-color: var(--clr-black);
     width: 100%;
     margin-bottom: 0;
